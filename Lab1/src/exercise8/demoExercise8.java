@@ -1,7 +1,7 @@
 package exercise8;
 import java.util.Scanner;
 
-
+//this class will show the humans name and weight
 public class demoExercise8 {
 
 	public static void main(String[] args) {
